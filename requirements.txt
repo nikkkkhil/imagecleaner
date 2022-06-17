@@ -1,5 +1,5 @@
 tensorflow==1.2.1
-numpy==1.13.1
+numpy==1.21.0
 matplotlib==2.0.2
 Pillow==4.3.0
 PyQt5==5.9.2
